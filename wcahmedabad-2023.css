@@ -1,0 +1,68 @@
+/*
+Version: 1.0
+Description: Remote CSS for WordCamp Ahmedabad
+Author: Chetan Prajapati
+Author URI: https://www.chetanprajapati.com
+*/
+
+/*** Common ***/
+
+* {
+	box-sizing: border-box;
+}
+
+/* Why Event - Section */
+
+.why-event-main {
+	padding-right: 30px;
+}
+
+.why-event-box {
+	border-radius: 5px;
+	box-shadow: 0 20px 25px 0 rgba(0, 0, 0, 0.08);
+	min-height: 200px;
+	overflow: hidden;
+	padding: 30px;
+	position: relative;
+}
+
+.why-event-box .icon {
+	opacity: .2;
+	position: absolute;
+	right: -10px;
+	top: 20px;
+	width: 70px;
+}
+
+.why-event-box .title {
+	margin-top: 0;
+}
+
+.why-event-box .number {
+	position: absolute;
+	right: -55px;
+	bottom: -55px;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-ms-border-radius: 50%;
+	background: #e7015e;
+	color: #ffffff;
+	display: block;
+	text-align: left;
+	font-size: 16px;
+	font-weight: 700;
+	padding: 25px 30px;
+}
+
+/*** Footer ***/
+
+/*** Responsive ***/
+@media all and (max-width: 980px) {
+	
+}
+
+@media all and (max-width: 767px) {
+
+}
