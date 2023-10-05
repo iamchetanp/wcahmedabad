@@ -280,9 +280,9 @@ Author URI: https://www.chetanprajapati.com
 .why-event-box {
 	border-radius: 5px;
 	box-shadow: 0 20px 25px 0 rgba(0, 0, 0, 0.08);
-	min-height: 200px;
+	min-height: 250px;
 	overflow: hidden;
-	padding: 40px;
+	padding: 40px 50px 40px 40px;
 	position: relative;
 }
 
