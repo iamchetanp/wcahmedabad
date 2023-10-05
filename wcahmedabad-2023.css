@@ -418,7 +418,7 @@ Author URI: https://www.chetanprajapati.com
 	}
 	
 	#hero-section .wc-logo,
-											#hero-section .wordcamp {
+	#hero-section .wordcamp {
 		margin-bottom: 30px;
 	}
 	
@@ -467,6 +467,14 @@ Author URI: https://www.chetanprajapati.com
 	#hero-section #earth-area, 
 	#hero-section .earth {
 		display: none;
+	}
+
+	#subscribe-form .wp-block-jetpack-subscriptions__form-elements {
+		display: block;
+	}
+
+	#subscribe-form #subscribe-submit button {
+		margin: 10px 0 0 0;
 	}
 }
 
