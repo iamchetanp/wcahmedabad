@@ -34,6 +34,10 @@ Author URI: https://www.chetanprajapati.com
 }
 
 #hero-section {
+	padding-top: 200px !important;
+}
+
+.home #hero-section {
 	padding-top: 100px !important;
 }
 
