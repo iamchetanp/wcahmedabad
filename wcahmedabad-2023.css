@@ -34,7 +34,7 @@ Author URI: https://www.chetanprajapati.com
 }
 
 #hero-section {
-	padding-top: 200px !important;
+	padding-top: 100px !important;
 }
 
 #hero-section::before,
@@ -179,7 +179,7 @@ Author URI: https://www.chetanprajapati.com
 	left: 50%;
 	transform: translateX(-50%);
 	z-index: 1;
-	top: 320px;
+	top: 220px;
 	backface-visibility: hidden;
 }
 
@@ -189,7 +189,7 @@ Author URI: https://www.chetanprajapati.com
 	-webkit-transform: translateX(-50%) scaleX(3.3);
 	left: 50%;
 	position: absolute;
-	top: 310px;
+	top: 210px;
 	z-index: 2;
 	backface-visibility: hidden;
 }
